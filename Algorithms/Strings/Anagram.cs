@@ -1,5 +1,6 @@
-//How to use:
-//firstWord.IsAnagram(secondWord);
+//code
+//How to use :
+// Is firstWord.IsAnagram(secondWord);
 
 
 public static bool IsAnagram(this string firstWord, string secondWord)
